@@ -1,0 +1,32 @@
+{
+  "name": "pressmatic-addon-logs",
+  "productName": "Log Viewer",
+  "version": "1.0.0",
+  "author": "Section214, LLC",
+  "contributors": [
+    {
+      "name": "Daniel J Griffiths",
+      "email": "dgriffiths@section214.com"
+    }
+  ],
+  "keywords": [
+    "pressmatic-addon"
+  ],
+  "description": "View log files for your Pressmatic sites.",
+  "renderer": "lib/renderer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/section214/pressmatic-addon-logs"
+  },
+  "bugs": {
+    "url": "https://github.com/section214/pressmatic-addon-logs/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "file-tail": "^0.3.0",
+    "fs-reader": "^1.0.1"
+  },
+  "engines": {
+    "pressmatic": "^1.1.0"
+  }
+}
