@@ -2,7 +2,7 @@
 
 Addon for [Pressmatic](https://pressmatic.io) to view log files for your Pressmatic sites.
 
-![Pressmatic Addon: Logs Screenshot](/screenshot.png?raw=true)
+![Pressmatic Addon: Logs Screen Recording](/screenrecording.gif?raw=true)
 
 ## Installation
 
