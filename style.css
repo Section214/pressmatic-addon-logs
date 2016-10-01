@@ -9,6 +9,7 @@
     display: block;
     bottom: 53px;
     padding: 15px 0;
+    width: 100%;
 }
 
 .logs-container .logview-monitor {
